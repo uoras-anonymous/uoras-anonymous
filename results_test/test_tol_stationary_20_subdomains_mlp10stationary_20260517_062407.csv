@@ -1,0 +1,2 @@
+num_dofs,num_iters_tol_mean,method,errors_mean,runtimes_mean,num_iters_tol_sd,errors_sd,runtimes_sd,hvalx,num_subdomains
+78400,67.0,mlp10stationary,9.647435585387562e-07,11.42618703842163,0.0,0.0,0.0,0.0035587188612099642,20
